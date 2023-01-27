@@ -1,0 +1,3 @@
+[autorun]
+open=Auto.exe
+icon=favicon14.ico
